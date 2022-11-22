@@ -1,2 +1,2 @@
-# Facial-Recognition
-Facial Recognition with OpenCV
+<h1 align="center">Facial Recognition with OpenCV</h1>
+
