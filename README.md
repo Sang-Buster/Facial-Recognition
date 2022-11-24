@@ -14,7 +14,7 @@
 
 <p align="center"><img src="lib/Parts.PNG" width=400px />&nbsp;&nbsp;<img src="lib/Workflow.PNG" width=400px /></p>
 
-<h3 align="center">Simulations</h3>
+<h2 align="center">Simulations</h3>
 
 <div align="center">
 <table>
