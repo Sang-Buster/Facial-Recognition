@@ -4,7 +4,7 @@
 
 &emsp;Haar features shown in the below image are used. They are just like convolutional kernels. Each feature is a single value obtained by subtracting sum of pixels under the white rectangle from sum of pixels under the black rectangle. 
 
-<p align="center"><img src="lib/Haar_features.png"/> <img src="lib/Ex.1.png"/></p>
+<p align="center"><img src="lib/Haar_features.png"/>&nbsp;&nbsp;<img src="lib/Ex.1.png"/></p>
 
 &emsp;Consider the image above on the right. The top row shows two good features. The first feature selected seems to focus on the property that the region of the eyes is often darker than the region of the nose and cheeks. The second feature selected relies on the property that the eyes are darker than the bridge of the nose. [1]
 
@@ -12,13 +12,20 @@
 
 &emsp; I have successfully built a car with a Raspberry Pi camera and hope to use convolutional neural networks in the future to achieve fully autonomous driving capabilities. Below I provided all the parts to build the car along with its workflow. 
 
-<p align="center"><img src="lib/Parts.png" width=500px/> <img src="lib/Workflow.png" width=500px/></p>
+<p align="center"><img src="lib/Parts.PNG" width=500px />&nbsp;&nbsp;<img src="lib/Workflow.PNG" width=500px /></p>
 
 <h3 align="center">Simulations</h3>
 
-<p align="center"><img src="lib/sim1.gif" width=500px/> <img src="lib/sim2.gif" width=500px/></p>
-
-
+<table>
+  <tr>
+    <th>4 Predisents</th>
+    <th>6 Presidents</th>
+  </tr>
+  <tr>
+    <td> <p align="center"><img src="lib/sim1.gif" width=470px /></td>
+    <td><img src="lib/sim2.gif" width=470px /></p></td>
+  </tr>
+</table>
 
 <h2 align="center">Reference</h2>
 
