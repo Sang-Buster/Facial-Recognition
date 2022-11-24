@@ -1,2 +1,2 @@
-<h1 align="center">Facial Recognition with OpenCV in Raspbian</h1>
+<h1 align="center">Facial Recognition with OpenCV</h1>
 
