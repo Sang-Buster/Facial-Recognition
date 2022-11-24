@@ -12,8 +12,7 @@
 
 &emsp; I have successfully built a car with a Raspberry Pi camera and hope to use convolutional neural networks in the future to achieve fully autonomous driving capabilities. Below I provided all the parts to build the car along with its workflow. 
 
-<p align="center"><img src="lib/Parts.PNG" width=500px /></p>
-<p align="center"><img src="lib/Workflow.PNG" width=500px /></p>
+<p align="center"><img src="lib/Parts.PNG" width=400px />&nbsp;&nbsp;<img src="lib/Workflow.PNG" width=400px /></p>
 
 <h3 align="center">Simulations</h3>
 
