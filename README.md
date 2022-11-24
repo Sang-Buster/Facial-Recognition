@@ -23,8 +23,8 @@
     <th>6 Presidents</th>
   </tr>
   <tr>
-    <td> <p align="center"><img src="lib/sim1.gif" width=350px /></td>
-    <td><img src="lib/sim2.gif" width=350px /></p></td>
+    <td> <p align="center"><img src="lib/sim1.gif" width=400px /></td>
+    <td><img src="lib/sim2.gif" width=400px /></p></td>
   </tr>
 </table>
 </div>
